@@ -1,4 +1,8 @@
 List of Countries:
 Mexico
+<<<<<<< HEAD
 India
 
+=======
+United States of EMERICA
+>>>>>>> 643ff248a67483baa1829721dc4f817a336da734
